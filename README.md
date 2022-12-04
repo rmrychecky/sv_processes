@@ -1,4 +1,4 @@
-# sv_processes
+# Processes to analyze and understand structural variants
 
 ## Links to helpful sites <br> 
 BLAST in python
