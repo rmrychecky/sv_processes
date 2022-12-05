@@ -1,6 +1,13 @@
 # Processes to analyze and understand structural variants
 
 ## Links to helpful sites <br> 
+Sequence Archive Run Browser
+- https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&display=metadata
+
+1000 Genomes Database of Genome Samples/1000 Genomes Homepage
+- https://www.internationalgenome.org/data
+- https://www.internationalgenome.org/data-portal/sample
+
 BLAST in python
 - https://pypi.org/project/pyblastbio/
 - https://www.tutorialspoint.com/biopython/biopython_overview_of_blast.htm
