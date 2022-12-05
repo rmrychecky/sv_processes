@@ -1,5 +1,16 @@
 # Processes to analyze and understand structural variants
 
+## Description
+
+This repository contains a python program to help process and analyze structural variants that occur in species. It can be applied to any species as long as the input is of the correct format (working with vcf and fasta files). This repository also contains output of Blastn program runs (in the form of txt and xml files) and fasta files that contain the relevant variants (by frequency) for sub genus populations of a species. The species for which there is data include:
+- human
+- cow
+- pig
+- horse
+- chicken
+
+The filtered vcf files are filtered by SVTYPE='DEL'. If you wish to look at a different type of variant this can be changed by refiltering the original vcf files which are contained in each species folder by desired variant type using the command line arugments found in the "Full Workflow" section of the python notebook. 
+
 ## Links to helpful sites <br> 
 Sequence Archive Run Browser
 - https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&display=metadata
