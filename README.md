@@ -10,7 +10,9 @@ Blast program runs are named by the sub population that was both the query and s
 - horse
 - chicken
 
-The filtered vcf files are filtered by SVTYPE='DEL'. If you wish to look at a different type of variant this can be changed by refiltering the original vcf files which are contained in each species folder by desired variant type using the command line arugments found in the "Full Workflow" section of the python notebook. 
+The filtered vcf files are filtered by SVTYPE='DEL'. If you wish to look at a different type of variant this can be changed by refiltering the original vcf files which are contained in each species folder by desired variant type using the command line arugments found in the "Full Workflow" section of the python notebook.
+
+Finally, this repository contains a writeup of some of the findings of the project.
 
 ## Links to helpful sites <br> 
 Sequence Archive Run Browser
