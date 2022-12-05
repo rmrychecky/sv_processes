@@ -2,7 +2,8 @@
 
 ## Description
 
-This repository contains a python program to help process and analyze structural variants that occur in species. It can be applied to any species as long as the input is of the correct format (working with vcf and fasta files). This repository also contains output of Blastn program runs (in the form of txt and xml files) and fasta files that contain the relevant variants (by frequency) for sub genus populations of a species. The species for which there is data include:
+This repository contains a python program to help process and analyze structural variants that occur in species. It can be applied to any species as long as the input is of the correct format (working with vcf and fasta files). This repository also contains output of Blastn program runs (in the form of txt and xml files) and fasta files that contain the relevant variants (by frequency) for sub genus populations of a species. The results of the 
+Blast program runs are named by the sub population that was both the query and subject of the run. For example, if the file is named results_African_Ancestry.xml then this file contains the output of a blast run aligning the sequences belonging to the African Ancestry population against each other. The species for which there is data include:
 - human
 - cow
 - pig
