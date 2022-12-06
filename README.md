@@ -14,6 +14,8 @@ The filtered vcf files are filtered by SVTYPE='DEL'. If you wish to look at a di
 
 Finally, this repository contains a writeup of some of the findings of the project.
 
+The python progarm is in the file called SV_generralized.ipynb 
+
 ## Links to helpful sites <br> 
 Sequence Archive Run Browser
 - https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&display=metadata
